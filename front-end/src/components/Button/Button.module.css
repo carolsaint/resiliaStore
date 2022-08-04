@@ -1,0 +1,20 @@
+.primaryButton{
+width: 235px;
+height: 45px;
+color: black;
+background-color: var(--primaria);
+border-radius: 5px;
+font-size: 16px;
+font-weight: 700;
+}
+
+.secondaryButton{
+color: var(--primaria);
+background-color: var(--secundaria);
+border: 1px solid #333333;
+border-radius: 5px;
+width: 242px;
+height: 50px;
+font-size: 16px;
+font-weight: 700;
+}
